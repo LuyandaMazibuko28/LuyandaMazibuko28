@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Luyanda Mazibuko
-- 👀 I’m interested in software developmet
-- 🌱 I’m currently learning ICT:Applications Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m Luyanda Mazibuko
+I’m interested in software developmet
+
 
 <!---
 LuyandaMazibuko28/LuyandaMazibuko28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
